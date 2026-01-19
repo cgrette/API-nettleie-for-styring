@@ -108,50 +108,50 @@
       {
         "meteringPointIdFrom": "70705750007619000",
         "meteringPointIdTo": "70705750008018999",
-        "companyName": "AGDER ENERGI NETT AS",
+        "companyName": "GLITRE NETT AS",
         "companyOrgNo": "982974011",
-        "apiUrl": "https://app.ae.no/api/gridtariff",
-        "userDocUrlOrEmail": "nett@ae.no"
+        "apiUrl": "https://api.aenergi.no/Glitrenett/gridtariff/",
+        "userDocUrlOrEmail": "https://www.glitrenett.no/kunde/nettleie-og-priser/api-for-nettleiepriser/"
       },
       {
         "meteringPointIdFrom": "70705750004571000",
         "meteringPointIdTo": "70705750004609999",
-        "companyName": "Glitre Energi Nett AS",
-        "companyOrgNo": "981915550",
-        "apiUrl": "https://apigw.glitreenergi-nett.no/api/nettleie-for-styring/",
-        "userDocUrlOrEmail": "https://www.glitreenergi-nett.no/kunde/ny-nettleie/api-for-nettleiepriser/"
+        "companyName": "Glitre Nett AS",
+        "companyOrgNo": "982974011",
+        "apiUrl": "https://api.aenergi.no/Glitrenett/gridtariff/",
+        "userDocUrlOrEmail": "https://www.glitrenett.no/kunde/nettleie-og-priser/api-for-nettleiepriser/"
       },
       {
         "meteringPointIdFrom": "70705750002270000",
         "meteringPointIdTo": "70705750002349999",
-        "companyName": "Glitre Energi Nett AS",
-        "companyOrgNo": "981915550",
-        "apiUrl": "https://apigw.glitreenergi-nett.no/api/nettleie-for-styring/",
-        "userDocUrlOrEmail": "https://www.glitreenergi-nett.no/kunde/ny-nettleie/api-for-nettleiepriser/"
+        "companyName": "Glitre Nett AS",
+        "companyOrgNo": "982974011",
+        "apiUrl": "https://api.aenergi.no/Glitrenett/gridtariff/",
+        "userDocUrlOrEmail": "https://www.glitrenett.no/kunde/nettleie-og-priser/api-for-nettleiepriser/"
       },
       {
         "meteringPointIdFrom": "70705750001221000",
         "meteringPointIdTo": "70705750001260999",
-        "companyName": "Glitre Energi Nett AS",
-        "companyOrgNo": "981915550",
-        "apiUrl": "https://apigw.glitreenergi-nett.no/api/nettleie-for-styring/",
-        "userDocUrlOrEmail": "https://www.glitreenergi-nett.no/kunde/ny-nettleie/api-for-nettleiepriser/"
+        "companyName": "Glitre Nett AS",
+        "companyOrgNo": "982974011",
+        "apiUrl": "https://api.aenergi.no/Glitrenett/gridtariff/",
+        "userDocUrlOrEmail": "https://www.glitrenett.no/kunde/nettleie-og-priser/api-for-nettleiepriser/"
       },
       {
         "meteringPointIdFrom": "70705750008191000",
         "meteringPointIdTo": "70705750008215999",
-        "companyName": "Glitre Energi Nett AS",
-        "companyOrgNo": "981915550",
-        "apiUrl": "https://apigw.glitreenergi-nett.no/api/nettleie-for-styring/",
-        "userDocUrlOrEmail": "https://www.glitreenergi-nett.no/kunde/ny-nettleie/api-for-nettleiepriser/"
+        "companyName": "Glitre Nett AS",
+        "companyOrgNo": "982974011",
+        "apiUrl": "https://api.aenergi.no/Glitrenett/gridtariff/",
+        "userDocUrlOrEmail": "https://www.glitrenett.no/kunde/nettleie-og-priser/api-for-nettleiepriser/"
       },
       {
         "meteringPointIdFrom": "70705750008220000",
         "meteringPointIdTo": "70705750008244999",
-        "companyName": "Glitre Energi Nett AS",
-        "companyOrgNo": "981915550",
-        "apiUrl": "https://apigw.glitreenergi-nett.no/api/nettleie-for-styring/",
-        "userDocUrlOrEmail": "https://www.glitreenergi-nett.no/kunde/ny-nettleie/api-for-nettleiepriser/"
+        "companyName": "Glitre Nett AS",
+        "companyOrgNo": "982974011",
+        "apiUrl": "https://api.aenergi.no/Glitrenett/gridtariff/",
+        "userDocUrlOrEmail": "https://www.glitrenett.no/kunde/nettleie-og-priser/api-for-nettleiepriser/"
       },
       {
         "meteringPointIdFrom": "70705750008837000",
