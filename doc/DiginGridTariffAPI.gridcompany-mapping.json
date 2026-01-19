@@ -109,7 +109,7 @@
         "meteringPointIdFrom": "70705750007619000",
         "meteringPointIdTo": "70705750008018999",
         "companyName": "GLITRE NETT AS",
-        "companyOrgNo": "982974011",
+        "companyOrgNo": "982974011", 
         "apiUrl": "https://api.aenergi.no/Glitrenett/gridtariff/",
         "userDocUrlOrEmail": "https://www.glitrenett.no/kunde/nettleie-og-priser/api-for-nettleiepriser/"
       },
